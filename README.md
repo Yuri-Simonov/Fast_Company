@@ -1,0 +1,3 @@
+# Fast Company 
+## Версия без Redux
+### БД - Firebase
